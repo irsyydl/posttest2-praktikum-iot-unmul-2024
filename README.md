@@ -1,7 +1,7 @@
 # Posttest2-Praktikum-IoT-Unmul-2024
  - 2109106011 (Ilham Ramadhan)
  - 2109106047 (Muhammad Irsyadul Asyrof Haryono)
-## Rangkaian untuk Kontrol 2 Lampu LED
+## Rangkaian untuk kontrol buzzer dan led dan monitor komponen melalui webserver
 **Deskripsi :** <br>
 Terdapat led dan buzzer pada perangkat yang nilainya (brightness dan tone) dapat ditambah atau dikurangi menggunakan push button, terdapat juga button yang digunakan untuk disable/enable semua komponen, sistem ini terhubung ke wi-fi untuk akses ke webserver, webserver digunakan untuk memantau komponen.
 
